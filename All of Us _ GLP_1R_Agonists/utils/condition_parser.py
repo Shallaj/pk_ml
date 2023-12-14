@@ -48,7 +48,8 @@ def condition_parser(condition_df, my_dataframe, condition_name):
     print(tidy_condition_name)
     
     return tidy_condition_name  # return the dataframe
-
+condition_df= #enter the df name here
+condition_name='' #enter the condition name here
 # Call the function and assign the result to a variable
 tidy = condition_parser(condition_df, my_dataframe, condition_name)
 
