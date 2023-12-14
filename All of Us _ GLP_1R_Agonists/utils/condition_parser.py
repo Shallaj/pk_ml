@@ -47,10 +47,10 @@ def condition_parser(condition_df, my_dataframe, condition_name):
     tidy_condition_name[condition_name] = 1
     print(tidy_condition_name)
     
-# Assuming condition_df, my_dataframe, and condition_name are defined
-condition_df = dataset_40910266_condition_df  # replace with your actual dataframe
-condition_name = 'mi'  # replace with your actual condition name
+    return tidy_condition_name  # return the dataframe
 
-# Call the function
-condition_parser(condition_df, my_dataframe, condition_name)
-    
+# Call the function and assign the result to a variable
+tidy = condition_parser(condition_df, my_dataframe, condition_name)
+
+# Now you can print tidy outside of the function
+print(tidy)
