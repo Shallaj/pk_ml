@@ -34,14 +34,14 @@ def observation_parser(observation_df, my_dataframe, observation_name):
     merged_df = merged_df[merged_df['observation_datetime'] < merged_df['final_index_date']]
     merged_df = merged_df.drop_duplicates(subset='person_id', keep='first')
     
-    tidy_observation_name = pd.DataFrame(columns = ['person_id', condition_name])
+    tidy_observation_name = pd.DataFrame(columns = ['person_id', observation_name])
     tidy_observation_name['person_id'] = merged_df['person_id']
-    tidy_observation_name[condition_name] = 1
+    tidy_observation_name[observation_name] = 1
     print(tidy_observation_name)
     
     return tidy_observation_name  # return the dataframe
-observation_df= dataset_37789927_observation_df #enter the df name here
-observation_name= 'copd' #enter the observation name here
+observation_df=  #enter the df name here
+observation_name= '' #enter the observation name here
 # Call the function and assign the result to a variable
 tidy1 = observation_parser(observation_df, my_dataframe, observation_name)
 
