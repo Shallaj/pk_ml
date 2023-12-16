@@ -30,23 +30,23 @@ my_dataframe.head()
 
 import pandas as pd
 
-def condition_parser(condition_df, my_dataframe, condition_name):
-    merged_df = pd.merge(condition_df, my_dataframe, on='person_id', how='left')
+def drug_parser(drug_df, my_dataframe, drug_name):
+    merged_df = pd.merge(drug_df, my_dataframe, on='person_id', how='left')
     merged_df['index_date'] = pd.to_datetime(merged_df['index_date'], format='%m %d %Y').dt.tz_localize(None)
-    merged_df['condition_start_datetime'] = pd.to_datetime(merged_df['condition_start_datetime'], format='%m %d %Y').dt.tz_localize(None)
-    merged_df = merged_df[merged_df['condition_start_datetime'] < merged_df['index_date']]
+    merged_df['drug_exposure_start_datetime'] = pd.to_datetime(merged_df['drug_exposure_start_datetime'], format='%m %d %Y').dt.tz_localize(None)
+    merged_df = merged_df[merged_df['drug_exposure_start_datetime'] < merged_df['index_date']]
     merged_df = merged_df.drop_duplicates(subset='person_id', keep='first')
     
-    tidy_condition_name = pd.DataFrame(columns = ['person_id', condition_name])
-    tidy_condition_name['person_id'] = merged_df['person_id']
-    tidy_condition_name[condition_name] = 1
-    print(tidy_condition_name)
+    tidy_drug_name = pd.DataFrame(columns = ['person_id', drug_name])
+    tidy_drug_name['person_id'] = merged_df['person_id']
+    tidy_drug_name[drug_name] = 1
+    print(tidy_drug_name)
     
-    return tidy_condition_name  # return the dataframe
-condition_df= #enter the df name here
-condition_name='' #enter the condition name here
+    return tidy_drug_name  # return the dataframe
+drug_df= #enter the df name here
+drug_name='' #enter the drug name here
 # Call the function and assign the result to a variable
-tidy = condition_parser(condition_df, my_dataframe, condition_name)
+tidy = drug_parser(drug_df, my_dataframe, drug_name)
 
 # Now you can print tidy outside of the function
 print(tidy)

@@ -29,9 +29,9 @@ my_dataframe = pd.read_csv(name_of_file_in_bucket)
 my_dataframe.head()
 def observation_parser(observation_df, my_dataframe, observation_name):
     merged_df = pd.merge(observation_df, my_dataframe, on='person_id', how='left')
-    merged_df['final_index_date'] = pd.to_datetime(merged_df['final_index_date'], format='%m %d %Y').dt.tz_localize(None)
+    merged_df['index_date'] = pd.to_datetime(merged_df['index_date'], format='%m %d %Y').dt.tz_localize(None)
     merged_df['observation_datetime'] = pd.to_datetime(merged_df['observation_datetime'], format='%m %d %Y').dt.tz_localize(None)
-    merged_df = merged_df[merged_df['observation_datetime'] < merged_df['final_index_date']]
+    merged_df = merged_df[merged_df['observation_datetime'] < merged_df['index_date']]
     merged_df = merged_df.drop_duplicates(subset='person_id', keep='first')
     
     tidy_observation_name = pd.DataFrame(columns = ['person_id', observation_name])
