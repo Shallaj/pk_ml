@@ -1,0 +1,860 @@
+Tag,Description,Value
+"(0008, 0005)","<bound method DataElement.description of (0008, 0005) Specific Character Set              CS: 'ISO_IR 192'>",ISO_IR 192
+"(0008, 0012)","<bound method DataElement.description of (0008, 0012) Instance Creation Date              DA: '20231115'>",20231115
+"(0008, 0013)","<bound method DataElement.description of (0008, 0013) Instance Creation Time              TM: '115905.951'>",115905.951
+"(0008, 0016)","<bound method DataElement.description of (0008, 0016) SOP Class UID                       UI: Ophthalmic Visual Field Static Perimetry Measurements Storage>",1.2.840.10008.5.1.4.1.1.80.1
+"(0008, 0018)","<bound method DataElement.description of (0008, 0018) SOP Instance UID                    UI: 1.2.276.0.75.2.5.80.25.3.231115115905951.345048637379.415558322>",1.2.276.0.75.2.5.80.25.3.231115115905951.345048637379.415558322
+"(0008, 0020)","<bound method DataElement.description of (0008, 0020) Study Date                          DA: '20230914'>",20230914
+"(0008, 0030)","<bound method DataElement.description of (0008, 0030) Study Time                          TM: '103811.519'>",103811.519
+"(0008, 0050)","<bound method DataElement.description of (0008, 0050) Accession Number                    SH: ''>",
+"(0008, 0060)","<bound method DataElement.description of (0008, 0060) Modality                            CS: 'OPV'>",OPV
+"(0008, 0070)","<bound method DataElement.description of (0008, 0070) Manufacturer                        LO: 'Carl Zeiss Meditec'>",Carl Zeiss Meditec
+"(0008, 0080)","<bound method DataElement.description of (0008, 0080) Institution Name                    LO: 'UCSD Ophthalmology Research'>",UCSD Ophthalmology Research
+"(0008, 0090)","<bound method DataElement.description of (0008, 0090) Referring Physician's Name          PN: ''>",
+"(0008, 1010)","<bound method DataElement.description of (0008, 1010) Station Name                        SH: 'mradappp06'>",mradappp06
+"(0008, 103e)","<bound method DataElement.description of (0008, 103e) Series Description                  LO: 'OPV'>",OPV
+"(0008, 1090)","<bound method DataElement.description of (0008, 1090) Manufacturer's Model Name           LO: 'FORUM Glaucoma Workplace'>",FORUM Glaucoma Workplace
+"(0008, 114a)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0008, 114a)[1].(0008, 1150)","<bound method DataElement.description of (0008, 1150) Referenced SOP Class UID            UI: Raw Data Storage>",1.2.840.10008.5.1.4.1.1.66
+"(0008, 114a)[1].(0008, 1155)","<bound method DataElement.description of (0008, 1155) Referenced SOP Instance UID         UI: 1.2.276.0.75.2.2.30.2.3.230914105829918.50126938803.1000140>",1.2.276.0.75.2.2.30.2.3.230914105829918.50126938803.1000140
+"(0008, 114a)[1].(0040, a170)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0008, 114a)[1].(0040, a170)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'RAW DATA SRC'>",RAW DATA SRC
+"(0008, 114a)[1].(0040, a170)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: '99CZM_PERIMETRY'>",99CZM_PERIMETRY
+"(0008, 114a)[1].(0040, a170)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'CZM Perimetry Source Exam'>",CZM Perimetry Source Exam
+"(0010, 0010)","<bound method DataElement.description of (0010, 0010) Patient's Name                      PN: 'SD1031^SD'>",SD1031^SD
+"(0010, 0020)","<bound method DataElement.description of (0010, 0020) Patient ID                          LO: 'SD1031'>",SD1031
+"(0010, 0021)","<bound method DataElement.description of (0010, 0021) Issuer of Patient ID                LO: 'HFA 3'>",HFA 3
+"(0010, 0030)","<bound method DataElement.description of (0010, 0030) Patient's Birth Date                DA: '19500814'>",19500814
+"(0010, 0040)","<bound method DataElement.description of (0010, 0040) Patient's Sex                       CS: 'F'>",F
+"(0018, 1000)","<bound method DataElement.description of (0018, 1000) Device Serial Number                LO: '860-15084'>",860-15084
+"(0018, 1020)","<bound method DataElement.description of (0018, 1020) Software Versions                   LO: ['3.5.0.178611-1020', '', '1.5.3.714']>","['3.5.0.178611-1020', '', '1.5.3.714']"
+"(0018, a001)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0018, a001)[1].(0008, 0070)","<bound method DataElement.description of (0008, 0070) Manufacturer                        LO: 'Carl Zeiss Meditec'>",Carl Zeiss Meditec
+"(0018, a001)[1].(0008, 0080)","<bound method DataElement.description of (0008, 0080) Institution Name                    LO: 'UCSD'>",UCSD
+"(0018, a001)[1].(0008, 1090)","<bound method DataElement.description of (0008, 1090) Manufacturer's Model Name           LO: 'HFA 3'>",HFA 3
+"(0018, a001)[1].(0018, 1000)","<bound method DataElement.description of (0018, 1000) Device Serial Number                LO: '860-15084'>",860-15084
+"(0018, a001)[1].(0018, 1020)","<bound method DataElement.description of (0018, 1020) Software Versions                   LO: '1.5.3.714'>",1.5.3.714
+"(0018, a001)[1].(0018, 1200)","<bound method DataElement.description of (0018, 1200) Date of Last Calibration            DA: '20220721'>",20220721
+"(0018, a001)[1].(0040, a170)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0018, a001)[1].(0040, a170)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: '109101'>",109101
+"(0018, a001)[1].(0040, a170)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'DCM'>",DCM
+"(0018, a001)[1].(0040, a170)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'Acquisition Equipment'>",Acquisition Equipment
+"(0020, 000d)","<bound method DataElement.description of (0020, 000d) Study Instance UID                  UI: 1.2.276.0.75.2.2.30.2.1.20230914103811.860.15084>",1.2.276.0.75.2.2.30.2.1.20230914103811.860.15084
+"(0020, 000e)","<bound method DataElement.description of (0020, 000e) Series Instance UID                 UI: 1.2.276.0.75.2.5.80.25.2.231115115905951.345048637379.415558321>",1.2.276.0.75.2.5.80.25.2.231115115905951.345048637379.415558321
+"(0020, 0010)","<bound method DataElement.description of (0020, 0010) Study ID                            SH: 'OPV_20230914'>",OPV_20230914
+"(0020, 0011)","<bound method DataElement.description of (0020, 0011) Series Number                       IS: '1'>",1
+"(0020, 0013)","<bound method DataElement.description of (0020, 0013) Instance Number                     IS: '1'>",1
+"(0020, 0060)","<bound method DataElement.description of (0020, 0060) Laterality                          CS: 'L'>",L
+"(0024, 0010)","<bound method DataElement.description of (0024, 0010) Visual Field Horizontal Extent      FL: 10.0>",10.0
+"(0024, 0011)","<bound method DataElement.description of (0024, 0011) Visual Field Vertical Extent        FL: 10.0>",10.0
+"(0024, 0012)","<bound method DataElement.description of (0024, 0012) Visual Field Shape                  CS: 'CIRCLE'>",CIRCLE
+"(0024, 0018)","<bound method DataElement.description of (0024, 0018) Maximum Stimulus Luminance          FL: 3183.098876953125>",3183.098876953125
+"(0024, 0020)","<bound method DataElement.description of (0024, 0020) Background Luminance                FL: 10.026762008666992>",10.026762008666992
+"(0024, 0021)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0021)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'G-A12B'>",G-A12B
+"(0024, 0021)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'SRT'>",SRT
+"(0024, 0021)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'White'>",White
+"(0024, 0024)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0024)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'G-A12B'>",G-A12B
+"(0024, 0024)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'SRT'>",SRT
+"(0024, 0024)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'White'>",White
+"(0024, 0025)","<bound method DataElement.description of (0024, 0025) Stimulus Area                       FL: 0.1474803239107132>",0.1474803239107132
+"(0024, 0028)","<bound method DataElement.description of (0024, 0028) Stimulus Presentation Time          FL: 200.0>",200.0
+"(0024, 0032)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0032)[1].(0024, 0033)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0032)[1].(0024, 0033)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: '111843'>",111843
+"(0024, 0032)[1].(0024, 0033)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'DCM'>",DCM
+"(0024, 0032)[1].(0024, 0033)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'Automated Optical'>",Automated Optical
+"(0024, 0032)[1].(0024, 0035)","<bound method DataElement.description of (0024, 0035) Fixation Checked Quantity           US: 19>",19
+"(0024, 0032)[1].(0024, 0036)","<bound method DataElement.description of (0024, 0036) Patient Not Properly Fixated Quanti US: 1>",1
+"(0024, 0032)[1].(0024, 0039)","<bound method DataElement.description of (0024, 0039) Excessive Fixation Losses Data Flag CS: 'NO'>",NO
+"(0024, 0034)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0034)[1].(0024, 0045)","<bound method DataElement.description of (0024, 0045) False Negatives Estimate Flag       CS: 'YES'>",YES
+"(0024, 0034)[1].(0024, 0046)","<bound method DataElement.description of (0024, 0046) False Negatives Estimate            FL: 12.0>",12.0
+"(0024, 0034)[1].(0024, 0048)","<bound method DataElement.description of (0024, 0048) Negative Catch Trials Quantity      US: 6>",6
+"(0024, 0034)[1].(0024, 0050)","<bound method DataElement.description of (0024, 0050) False Negatives Quantity            US: 0>",0
+"(0024, 0034)[1].(0024, 0051)","<bound method DataElement.description of (0024, 0051) Excessive False Negatives Data Flag CS: 'NO'>",NO
+"(0024, 0034)[1].(0024, 0053)","<bound method DataElement.description of (0024, 0053) False Positives Estimate Flag       CS: 'YES'>",YES
+"(0024, 0034)[1].(0024, 0054)","<bound method DataElement.description of (0024, 0054) False Positives Estimate            FL: 3.0>",3.0
+"(0024, 0034)[1].(0024, 0055)","<bound method DataElement.description of (0024, 0055) Catch Trials Data Flag              CS: 'YES'>",YES
+"(0024, 0034)[1].(0024, 0056)","<bound method DataElement.description of (0024, 0056) Positive Catch Trials Quantity      US: 0>",0
+"(0024, 0034)[1].(0024, 0060)","<bound method DataElement.description of (0024, 0060) False Positives Quantity            US: 0>",0
+"(0024, 0034)[1].(0024, 0061)","<bound method DataElement.description of (0024, 0061) Excessive False Positives Data Flag CS: 'YES'>",YES
+"(0024, 0034)[1].(0024, 0062)","<bound method DataElement.description of (0024, 0062) Excessive False Positives           CS: 'NO'>",NO
+"(0024, 0037)","<bound method DataElement.description of (0024, 0037) Presented Visual Stimuli Data Flag  CS: 'NO'>",NO
+"(0024, 0057)","<bound method DataElement.description of (0024, 0057) Test Point Normals Data Flag        CS: 'YES'>",YES
+"(0024, 0058)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0058)[1].(0024, 0306)","<bound method DataElement.description of (0024, 0306) Data Set Name                       LO: 'HFA test point normative data'>",HFA test point normative data
+"(0024, 0058)[1].(0024, 0307)","<bound method DataElement.description of (0024, 0307) Data Set Version                    LO: '1.0'>",1.0
+"(0024, 0058)[1].(0024, 0308)","<bound method DataElement.description of (0024, 0308) Data Set Source                     LO: 'CZMI'>",CZMI
+"(0024, 0063)","<bound method DataElement.description of (0024, 0063) Visual Field Test Normals Flag      CS: 'YES'>",YES
+"(0024, 0064)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0064)[1].(0024, 0059)","<bound method DataElement.description of (0024, 0059) Global Deviation Probability Normal CS: 'YES'>",YES
+"(0024, 0064)[1].(0024, 0066)","<bound method DataElement.description of (0024, 0066) Global Deviation From Normal        FL: -8.229999542236328>",-8.229999542236328
+"(0024, 0064)[1].(0024, 0068)","<bound method DataElement.description of (0024, 0068) Localized Deviation From Normal     FL: 3.380000114440918>",3.380000114440918
+"(0024, 0064)[1].(0024, 0072)","<bound method DataElement.description of (0024, 0072) Local Deviation Probability Normals CS: 'YES'>",YES
+"(0024, 0064)[1].(0024, 0083)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0064)[1].(0024, 0083)[1].(0024, 0071)","<bound method DataElement.description of (0024, 0071) Global Deviation Probability        FL: 1.0>",1.0
+"(0024, 0064)[1].(0024, 0083)[1].(0066, 002f)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0064)[1].(0024, 0083)[1].(0066, 002f)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'PERIMETRY'>",PERIMETRY
+"(0024, 0064)[1].(0024, 0083)[1].(0066, 002f)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: '99CZM_PERIMETRY'>",99CZM_PERIMETRY
+"(0024, 0064)[1].(0024, 0083)[1].(0066, 002f)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'CZM Perimetry Algorithms'>",CZM Perimetry Algorithms
+"(0024, 0064)[1].(0024, 0083)[1].(0066, 0031)","<bound method DataElement.description of (0066, 0031) Algorithm Version                   LO: '1.0'>",1.0
+"(0024, 0064)[1].(0024, 0083)[1].(0066, 0036)","<bound method DataElement.description of (0066, 0036) Algorithm Name                      LO: 'MD Probability'>",MD Probability
+"(0024, 0064)[1].(0024, 0085)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0064)[1].(0024, 0085)[1].(0024, 0073)","<bound method DataElement.description of (0024, 0073) Localized Deviation Probability     FL: 1.0>",1.0
+"(0024, 0064)[1].(0024, 0085)[1].(0066, 002f)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0064)[1].(0024, 0085)[1].(0066, 002f)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'PERIMETRY'>",PERIMETRY
+"(0024, 0064)[1].(0024, 0085)[1].(0066, 002f)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: '99CZM_PERIMETRY'>",99CZM_PERIMETRY
+"(0024, 0064)[1].(0024, 0085)[1].(0066, 002f)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'CZM Perimetry Algorithms'>",CZM Perimetry Algorithms
+"(0024, 0064)[1].(0024, 0085)[1].(0066, 0031)","<bound method DataElement.description of (0066, 0031) Algorithm Version                   LO: '1.0'>",1.0
+"(0024, 0064)[1].(0024, 0085)[1].(0066, 0036)","<bound method DataElement.description of (0066, 0036) Algorithm Name                      LO: 'PSD Probability'>",PSD Probability
+"(0024, 0064)[1].(0024, 0306)","<bound method DataElement.description of (0024, 0306) Data Set Name                       LO: 'HFA visual field test normative data'>",HFA visual field test normative data
+"(0024, 0064)[1].(0024, 0307)","<bound method DataElement.description of (0024, 0307) Data Set Version                    LO: '1.0'>",1.0
+"(0024, 0064)[1].(0024, 0308)","<bound method DataElement.description of (0024, 0308) Data Set Source                     LO: 'CZMI'>",CZMI
+"(0024, 0065)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0065)[1].(0066, 002f)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0065)[1].(0066, 002f)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'PERIMETRY'>",PERIMETRY
+"(0024, 0065)[1].(0066, 002f)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: '99CZM_PERIMETRY'>",99CZM_PERIMETRY
+"(0024, 0065)[1].(0066, 002f)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'CZM Perimetry Algorithms'>",CZM Perimetry Algorithms
+"(0024, 0065)[1].(0066, 0031)","<bound method DataElement.description of (0066, 0031) Algorithm Version                   LO: '1.0'>",1.0
+"(0024, 0065)[1].(0066, 0036)","<bound method DataElement.description of (0066, 0036) Algorithm Name                      LO: 'Total Deviation'>",Total Deviation
+"(0024, 0067)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0067)[1].(0066, 002f)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0067)[1].(0066, 002f)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'PERIMETRY'>",PERIMETRY
+"(0024, 0067)[1].(0066, 002f)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: '99CZM_PERIMETRY'>",99CZM_PERIMETRY
+"(0024, 0067)[1].(0066, 002f)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'CZM Perimetry Algorithms'>",CZM Perimetry Algorithms
+"(0024, 0067)[1].(0066, 0031)","<bound method DataElement.description of (0066, 0031) Algorithm Version                   LO: '1.0'>",1.0
+"(0024, 0067)[1].(0066, 0036)","<bound method DataElement.description of (0066, 0036) Algorithm Name                      LO: 'Pattern Deviation'>",Pattern Deviation
+"(0024, 0074)","<bound method DataElement.description of (0024, 0074) Short Term Fluctuation Calculated   CS: 'NO'>",NO
+"(0024, 0076)","<bound method DataElement.description of (0024, 0076) Short Term Fluctuation Probability  CS: 'NO'>",NO
+"(0024, 0078)","<bound method DataElement.description of (0024, 0078) Corrected Localized Deviation From  CS: 'NO'>",NO
+"(0024, 0080)","<bound method DataElement.description of (0024, 0080) Corrected Localized Deviation From  CS: 'NO'>",NO
+"(0024, 0086)","<bound method DataElement.description of (0024, 0086) Foveal Sensitivity Measured         CS: 'YES'>",YES
+"(0024, 0087)","<bound method DataElement.description of (0024, 0087) Foveal Sensitivity                  FL: 28.0>",28.0
+"(0024, 0088)","<bound method DataElement.description of (0024, 0088) Visual Field Test Duration          FL: 547.0>",547.0
+"(0024, 0089)","<bound method DataElement.description of <Sequence, length 68>>",Sequence Data (not shown)
+"(0024, 0089)[1].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[1].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 9.0>",9.0
+"(0024, 0089)[1].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[1].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 14.0>",14.0
+"(0024, 0089)[1].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[1].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -16.0>",-16.0
+"(0024, 0089)[1].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[1].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[1].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -10.0>",-10.0
+"(0024, 0089)[1].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[2].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[2].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 9.0>",9.0
+"(0024, 0089)[2].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[2].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 17.0>",17.0
+"(0024, 0089)[2].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[2].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -12.0>",-12.0
+"(0024, 0089)[2].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[2].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[2].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -7.0>",-7.0
+"(0024, 0089)[2].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[3].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[3].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[3].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[3].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 19.0>",19.0
+"(0024, 0089)[3].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[3].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -11.0>",-11.0
+"(0024, 0089)[3].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[3].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[3].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -6.0>",-6.0
+"(0024, 0089)[3].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[4].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[4].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[4].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[4].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 22.0>",22.0
+"(0024, 0089)[4].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[4].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[4].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[4].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[4].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[4].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[5].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[5].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[5].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[5].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 23.0>",23.0
+"(0024, 0089)[5].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[5].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[5].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[5].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[5].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[5].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[6].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[6].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[6].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[6].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 18.0>",18.0
+"(0024, 0089)[6].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[6].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -12.0>",-12.0
+"(0024, 0089)[6].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[6].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[6].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -7.0>",-7.0
+"(0024, 0089)[6].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[7].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[7].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[7].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[7].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 17.0>",17.0
+"(0024, 0089)[7].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[7].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -13.0>",-13.0
+"(0024, 0089)[7].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[7].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[7].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -8.0>",-8.0
+"(0024, 0089)[7].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[8].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[8].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[8].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[8].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 15.0>",15.0
+"(0024, 0089)[8].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[8].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -15.0>",-15.0
+"(0024, 0089)[8].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[8].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[8].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -10.0>",-10.0
+"(0024, 0089)[8].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[9].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[9].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[9].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[9].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[9].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[9].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[9].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 2.0>",2.0
+"(0024, 0089)[9].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[9].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[9].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[10].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[10].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[10].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[10].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[10].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[10].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[10].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[10].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[10].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[10].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[11].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[11].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[11].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[11].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[11].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[11].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[11].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[11].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[11].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[11].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[12].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[12].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[12].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[12].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[12].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[12].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[12].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[12].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[12].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[12].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[13].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[13].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[13].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[13].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 22.0>",22.0
+"(0024, 0089)[13].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[13].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -10.0>",-10.0
+"(0024, 0089)[13].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[13].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[13].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -4.0>",-4.0
+"(0024, 0089)[13].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 2.0>",2.0
+"(0024, 0089)[14].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[14].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[14].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[14].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 22.0>",22.0
+"(0024, 0089)[14].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[14].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[14].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[14].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[14].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -4.0>",-4.0
+"(0024, 0089)[14].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 2.0>",2.0
+"(0024, 0089)[15].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[15].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[15].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[15].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[15].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[15].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[15].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[15].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[15].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[15].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[16].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[16].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[16].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[16].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[16].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[16].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[16].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 2.0>",2.0
+"(0024, 0089)[16].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[16].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[16].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[17].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[17].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[17].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[17].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[17].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[17].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -4.0>",-4.0
+"(0024, 0089)[17].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 2.0>",2.0
+"(0024, 0089)[17].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[17].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[17].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[18].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[18].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[18].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[18].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 23.0>",23.0
+"(0024, 0089)[18].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[18].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[18].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[18].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[18].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -4.0>",-4.0
+"(0024, 0089)[18].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[19].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[19].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[19].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[19].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[19].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[19].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[19].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[19].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[19].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[19].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[20].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[20].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[20].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[20].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 24.0>",24.0
+"(0024, 0089)[20].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[20].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[20].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[20].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[20].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[20].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[21].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[21].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[21].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[21].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[21].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[21].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[21].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[21].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[21].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[21].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[22].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[22].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[22].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[22].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 13.0>",13.0
+"(0024, 0089)[22].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[22].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -19.0>",-19.0
+"(0024, 0089)[22].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[22].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[22].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -14.0>",-14.0
+"(0024, 0089)[22].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[23].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[23].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[23].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[23].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[23].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[23].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[23].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[23].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[23].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[23].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[24].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[24].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[24].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[24].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[24].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[24].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[24].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[24].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[24].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[24].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[25].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 9.0>",9.0
+"(0024, 0089)[25].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[25].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[25].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[25].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[25].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[25].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 2.0>",2.0
+"(0024, 0089)[25].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[25].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[25].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[26].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[26].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[26].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[26].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[26].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[26].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[26].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 2.0>",2.0
+"(0024, 0089)[26].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[26].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[26].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[27].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[27].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[27].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[27].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[27].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[27].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[27].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[27].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[27].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[27].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[28].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[28].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[28].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[28].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[28].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[28].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[28].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[28].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[28].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[28].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[29].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[29].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[29].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[29].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[29].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[29].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[29].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[29].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[29].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[29].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[30].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[30].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[30].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[30].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 14.0>",14.0
+"(0024, 0089)[30].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[30].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -19.0>",-19.0
+"(0024, 0089)[30].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[30].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[30].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -13.0>",-13.0
+"(0024, 0089)[30].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[31].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[31].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[31].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[31].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 15.0>",15.0
+"(0024, 0089)[31].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[31].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -18.0>",-18.0
+"(0024, 0089)[31].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[31].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[31].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -13.0>",-13.0
+"(0024, 0089)[31].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[32].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[32].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[32].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[32].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[32].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[32].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[32].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[32].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[32].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[32].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[33].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[33].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[33].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[33].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[33].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[33].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[33].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[33].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[33].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[33].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[34].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -9.0>",-9.0
+"(0024, 0089)[34].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[34].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[34].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[34].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[34].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[34].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 5.0>",5.0
+"(0024, 0089)[34].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[34].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[34].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[35].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 9.0>",9.0
+"(0024, 0089)[35].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[35].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[35].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 23.0>",23.0
+"(0024, 0089)[35].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[35].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[35].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[35].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[35].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[35].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[36].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[36].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[36].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[36].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 24.0>",24.0
+"(0024, 0089)[36].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[36].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[36].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[36].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[36].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[36].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[37].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[37].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[37].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[37].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 24.0>",24.0
+"(0024, 0089)[37].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[37].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[37].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[37].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[37].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[37].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[38].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[38].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[38].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[38].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 24.0>",24.0
+"(0024, 0089)[38].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[38].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[38].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[38].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[38].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[38].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[39].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[39].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[39].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[39].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[39].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[39].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[39].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[39].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[39].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[39].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[40].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[40].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[40].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[40].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[40].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[40].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[40].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[40].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[40].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[40].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[41].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[41].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[41].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[41].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[41].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[41].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[41].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[41].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[41].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[41].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[42].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[42].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[42].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[42].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 28.0>",28.0
+"(0024, 0089)[42].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[42].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[42].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[42].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[42].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[42].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[43].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[43].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[43].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[43].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[43].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[43].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -5.0>",-5.0
+"(0024, 0089)[43].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[43].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[43].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[43].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[44].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -9.0>",-9.0
+"(0024, 0089)[44].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[44].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[44].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[44].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[44].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[44].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 2.0>",2.0
+"(0024, 0089)[44].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[44].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[44].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[45].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[45].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[45].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[45].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 22.0>",22.0
+"(0024, 0089)[45].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[45].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -10.0>",-10.0
+"(0024, 0089)[45].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[45].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[45].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -5.0>",-5.0
+"(0024, 0089)[45].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[46].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[46].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[46].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[46].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[46].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[46].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[46].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[46].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[46].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[46].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[47].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[47].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[47].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[47].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[47].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[47].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[47].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[47].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[47].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[47].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[48].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[48].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[48].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[48].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[48].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[48].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[48].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[48].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[48].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[48].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[49].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[49].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[49].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[49].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[49].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[49].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[49].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[49].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[49].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[49].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[50].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[50].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[50].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[50].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[50].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[50].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[50].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[50].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[50].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[50].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[51].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[51].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[51].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[51].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[51].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[51].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[51].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[51].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[51].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[51].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[52].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[52].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[52].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[52].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[52].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[52].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[52].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[52].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[52].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[52].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[53].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 7.0>",7.0
+"(0024, 0089)[53].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[53].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[53].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[53].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[53].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[53].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[53].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[53].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[53].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[54].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[54].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[54].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[54].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 27.0>",27.0
+"(0024, 0089)[54].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[54].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[54].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[54].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[54].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[54].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[55].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[55].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[55].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[55].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[55].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[55].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[55].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[55].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[55].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[55].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[56].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[56].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[56].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[56].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 23.0>",23.0
+"(0024, 0089)[56].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[56].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -10.0>",-10.0
+"(0024, 0089)[56].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[56].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[56].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -5.0>",-5.0
+"(0024, 0089)[56].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[57].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[57].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[57].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[57].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 26.0>",26.0
+"(0024, 0089)[57].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[57].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[57].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[57].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[57].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[57].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[58].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[58].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[58].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[58].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[58].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[58].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[58].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[58].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[58].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[58].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[59].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[59].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[59].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[59].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 23.0>",23.0
+"(0024, 0089)[59].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[59].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[59].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[59].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[59].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -4.0>",-4.0
+"(0024, 0089)[59].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 2.0>",2.0
+"(0024, 0089)[60].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[60].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[60].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[60].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 22.0>",22.0
+"(0024, 0089)[60].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[60].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[60].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[60].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[60].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -4.0>",-4.0
+"(0024, 0089)[60].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[61].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 5.0>",5.0
+"(0024, 0089)[61].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[61].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[61].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 25.0>",25.0
+"(0024, 0089)[61].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[61].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -6.0>",-6.0
+"(0024, 0089)[61].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[61].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[61].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -1.0>",-1.0
+"(0024, 0089)[61].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[62].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 3.0>",3.0
+"(0024, 0089)[62].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[62].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[62].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 24.0>",24.0
+"(0024, 0089)[62].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[62].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -7.0>",-7.0
+"(0024, 0089)[62].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[62].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[62].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -2.0>",-2.0
+"(0024, 0089)[62].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[63].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[63].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[63].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[63].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 21.0>",21.0
+"(0024, 0089)[63].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[63].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -10.0>",-10.0
+"(0024, 0089)[63].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[63].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[63].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -5.0>",-5.0
+"(0024, 0089)[63].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[64].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[64].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[64].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[64].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 23.0>",23.0
+"(0024, 0089)[64].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[64].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -8.0>",-8.0
+"(0024, 0089)[64].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[64].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[64].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[64].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 5.0>",5.0
+"(0024, 0089)[65].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -3.0>",-3.0
+"(0024, 0089)[65].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[65].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[65].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 20.0>",20.0
+"(0024, 0089)[65].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[65].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -12.0>",-12.0
+"(0024, 0089)[65].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[65].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[65].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -7.0>",-7.0
+"(0024, 0089)[65].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[66].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -5.0>",-5.0
+"(0024, 0089)[66].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -7.0>",-7.0
+"(0024, 0089)[66].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[66].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 23.0>",23.0
+"(0024, 0089)[66].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[66].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -9.0>",-9.0
+"(0024, 0089)[66].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[66].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[66].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -3.0>",-3.0
+"(0024, 0089)[66].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 0.0>",0.0
+"(0024, 0089)[67].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: 1.0>",1.0
+"(0024, 0089)[67].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -9.0>",-9.0
+"(0024, 0089)[67].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[67].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 12.0>",12.0
+"(0024, 0089)[67].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[67].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -19.0>",-19.0
+"(0024, 0089)[67].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[67].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[67].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -14.0>",-14.0
+"(0024, 0089)[67].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0089)[68].(0024, 0090)","<bound method DataElement.description of (0024, 0090) Visual Field Test Point X-Coordinat FL: -1.0>",-1.0
+"(0024, 0089)[68].(0024, 0091)","<bound method DataElement.description of (0024, 0091) Visual Field Test Point Y-Coordinat FL: -9.0>",-9.0
+"(0024, 0089)[68].(0024, 0093)","<bound method DataElement.description of (0024, 0093) Stimulus Results                    CS: 'SEEN'>",SEEN
+"(0024, 0089)[68].(0024, 0094)","<bound method DataElement.description of (0024, 0094) Sensitivity Value                   FL: 20.0>",20.0
+"(0024, 0089)[68].(0024, 0097)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0089)[68].(0024, 0097)[1].(0024, 0092)","<bound method DataElement.description of (0024, 0092) Age Corrected Sensitivity Deviation FL: -11.0>",-11.0
+"(0024, 0089)[68].(0024, 0097)[1].(0024, 0100)","<bound method DataElement.description of (0024, 0100) Age Corrected Sensitivity Deviation FL: 1.0>",1.0
+"(0024, 0089)[68].(0024, 0097)[1].(0024, 0102)","<bound method DataElement.description of (0024, 0102) Generalized Defect Corrected Sensit CS: 'YES'>",YES
+"(0024, 0089)[68].(0024, 0097)[1].(0024, 0103)","<bound method DataElement.description of (0024, 0103) Generalized Defect Corrected Sensit FL: -6.0>",-6.0
+"(0024, 0089)[68].(0024, 0097)[1].(0024, 0104)","<bound method DataElement.description of (0024, 0104) Generalized Defect Corrected Sensit FL: 1.0>",1.0
+"(0024, 0105)","<bound method DataElement.description of (0024, 0105) Minimum Sensitivity Value           FL: 0.0>",0.0
+"(0024, 0106)","<bound method DataElement.description of (0024, 0106) Blind Spot Localized                CS: 'NO'>",NO
+"(0024, 0113)","<bound method DataElement.description of (0024, 0113) Measurement Laterality              CS: 'L'>",L
+"(0024, 0114)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0114)[1].(0022, 000d)","<bound method DataElement.description of (0022, 000d) Pupil Dilated                       CS: ''>",
+"(0024, 0114)[1].(0024, 0112)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0114)[1].(0024, 0112)[1].(0022, 0007)","<bound method DataElement.description of (0022, 0007) Spherical Lens Power                FL: 2.5>",2.5
+"(0024, 0114)[1].(0024, 0112)[1].(0022, 0008)","<bound method DataElement.description of (0022, 0008) Cylinder Lens Power                 FL: 0.0>",0.0
+"(0024, 0114)[1].(0024, 0112)[1].(0022, 0009)","<bound method DataElement.description of (0022, 0009) Cylinder Axis                       FL: 0.0>",0.0
+"(0024, 0114)[1].(0046, 0044)","<bound method DataElement.description of (0046, 0044) Pupil Size                          FD: 2.9>",2.9
+"(0024, 0117)","<bound method DataElement.description of (0024, 0117) Foveal Point Normative Data Flag    CS: 'YES'>",YES
+"(0024, 0118)","<bound method DataElement.description of (0024, 0118) Foveal Point Probability Value      FL: 0.5>",0.5
+"(0024, 0120)","<bound method DataElement.description of (0024, 0120) Screening Baseline Measured         CS: 'YES'>",YES
+"(0024, 0122)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0024, 0122)[1].(0024, 0124)","<bound method DataElement.description of (0024, 0124) Screening Baseline Type             CS: 'CENTRAL'>",CENTRAL
+"(0024, 0122)[1].(0024, 0126)","<bound method DataElement.description of (0024, 0126) Screening Baseline Value            FL: 28.0>",28.0
+"(0040, 0244)","<bound method DataElement.description of (0040, 0244) Performed Procedure Step Start Date DA: '20230914'>",20230914
+"(0040, 0245)","<bound method DataElement.description of (0040, 0245) Performed Procedure Step Start Time TM: '104727.659'>",104727.659
+"(0040, 0254)","<bound method DataElement.description of (0040, 0254) Performed Procedure Step Descriptio LO: 'OPV'>",OPV
+"(0040, 0260)","<bound method DataElement.description of <Sequence, length 2>>",Sequence Data (not shown)
+"(0040, 0260)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: '111801'>",111801
+"(0040, 0260)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'DCM'>",DCM
+"(0040, 0260)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'Visual Field 10-2 Test Pattern'>",Visual Field 10-2 Test Pattern
+"(0040, 0260)[1].(0040, 0440)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0040, 0260)[1].(0040, 0440)[1].(0040, a040)","<bound method DataElement.description of (0040, a040) Value Type                          CS: 'CODE'>",CODE
+"(0040, 0260)[1].(0040, 0440)[1].(0040, a043)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0040, 0260)[1].(0040, 0440)[1].(0040, a043)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'R-408C3'>",R-408C3
+"(0040, 0260)[1].(0040, 0440)[1].(0040, a043)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'SRT'>",SRT
+"(0040, 0260)[1].(0040, 0440)[1].(0040, a043)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'Diagnostic'>",Diagnostic
+"(0040, 0260)[2].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: '111815'>",111815
+"(0040, 0260)[2].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'DCM'>",DCM
+"(0040, 0260)[2].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'Visual Field SITA-Standard Test Strategy'>",Visual Field SITA-Standard Test Strategy
+"(0040, 0260)[2].(0040, 0440)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0040, 0260)[2].(0040, 0440)[1].(0040, a040)","<bound method DataElement.description of (0040, a040) Value Type                          CS: 'CODE'>",CODE
+"(0040, 0260)[2].(0040, 0440)[1].(0040, a043)","<bound method DataElement.description of <Sequence, length 1>>",Sequence Data (not shown)
+"(0040, 0260)[2].(0040, 0440)[1].(0040, a043)[1].(0008, 0100)","<bound method DataElement.description of (0008, 0100) Code Value                          SH: 'R-408C3'>",R-408C3
+"(0040, 0260)[2].(0040, 0440)[1].(0040, a043)[1].(0008, 0102)","<bound method DataElement.description of (0008, 0102) Coding Scheme Designator            SH: 'SRT'>",SRT
+"(0040, 0260)[2].(0040, 0440)[1].(0040, a043)[1].(0008, 0104)","<bound method DataElement.description of (0008, 0104) Code Meaning                        LO: 'Diagnostic'>",Diagnostic
+"(0305, 0010)","<bound method DataElement.description of (0305, 0010) Private Creator                     LO: '99CZM_Hfa_OphthalmicVisualFieldStaticPerimetry'>",99CZM_Hfa_OphthalmicVisualFieldStaticPerimetry
+"(0305, 1001)","<bound method DataElement.description of (0305, 1001) Private tag data                    LO: 'Central'>",Central
+"(2201, 0010)","<bound method DataElement.description of (2201, 0010) Private Creator                     LO: '99CZM_NIM_INTERNAL_01'>",99CZM_NIM_INTERNAL_01
+"(2201, 1000)","<bound method DataElement.description of (2201, 1000) Private tag data                    LT: Array of 51 elements>",HfaOphthalmicVisualFieldStaticPerimetryMeasurements
+"(2201, 1001)","<bound method DataElement.description of (2201, 1001) Private tag data                    LT: '2.13'>",2.13
+"(2201, 1002)","<bound method DataElement.description of (2201, 1002) Private tag data                    LT: Array of 85 elements>",HfaVisualFieldStaticPerimetryTestResults\HfaVisualFieldStaticPerimetryTestReliability
